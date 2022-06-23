@@ -1,5 +1,6 @@
 {
   "userId": 1,
   "name": "Arouna",
-  "DeviceType": "Esp32"
+  "DeviceType": "Esp32",
+  "age": "Yes"
  }
